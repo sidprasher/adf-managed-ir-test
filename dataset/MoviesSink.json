@@ -1,10 +1,6 @@
 {
 	"name": "MoviesSink",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "ADLSGen2",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
