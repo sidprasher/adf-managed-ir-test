@@ -1,0 +1,16 @@
+{
+	"name": "adfteststorageblob",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureBlobStorage",
+		"typeProperties": {
+			"serviceEndpoint": "https://adfteststorageexample.blob.core.windows.net/",
+			"accountKind": "StorageV2"
+		},
+		"connectVia": {
+			"referenceName": "adf-mvnet-test-runtime",
+			"type": "IntegrationRuntimeReference"
+		}
+	}
+}

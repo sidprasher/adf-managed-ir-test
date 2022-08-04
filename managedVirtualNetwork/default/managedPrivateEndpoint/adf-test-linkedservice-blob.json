@@ -1,0 +1,10 @@
+{
+	"name": "adf-test-linkedservice-blob",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0a1e54a3-58b3-40f8-82bd-efd7844068a5/resourceGroups/depcp-validateadfmanagedvnet01-e-rg/providers/Microsoft.Storage/storageAccounts/adfteststorageexample",
+		"groupId": "blob",
+		"fqdns": [
+			"adfteststorageexample.blob.core.windows.net"
+		]
+	}
+}

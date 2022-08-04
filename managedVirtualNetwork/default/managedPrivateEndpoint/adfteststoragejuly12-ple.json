@@ -1,0 +1,10 @@
+{
+	"name": "adfteststoragejuly12-ple",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/0a1e54a3-58b3-40f8-82bd-efd7844068a5/resourceGroups/depcp-validateadfmanagedvnet01-e-rg/providers/Microsoft.Storage/storageAccounts/adfteststoragejuly12",
+		"groupId": "blob",
+		"fqdns": [
+			"adfteststoragejuly12.blob.core.windows.net"
+		]
+	}
+}
